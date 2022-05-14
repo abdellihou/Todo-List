@@ -35,7 +35,7 @@ button.onclick = function () {
     window.setTimeout(function () {  // after 1000 ms the checked check box will be removed
       task.removeChild(li)
 
-    }, 1000)
+    }, 2000)
   };
   task.appendChild(li); //we add an li element  as a child of the element Ul
   li.appendChild(textNode); // we modify the inside of the element li by the text node
