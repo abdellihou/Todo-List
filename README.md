@@ -2,7 +2,7 @@
 
 (02) versions of a to do list app : 
 
-#the first version is using the browser console 
-##the second version is using DOM manipulation (vanilla JS)
+#the first version is using the browser console.
+##the second version is using DOM manipulation (vanilla JS).
 
 
